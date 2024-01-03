@@ -1,0 +1,2 @@
+# puja
+shopify-theme-github
